@@ -1,4 +1,4 @@
-### Oii! Sou o Renatocdg.
+### Oii! Eu sou o Renatocdg.
 - 👽 Desenvolvedor Junior
 - 🔭 Atualmente trabalho com freelancers
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas - IFPB
