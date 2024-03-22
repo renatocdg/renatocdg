@@ -2,12 +2,15 @@
 - 👽 Desenvolvedor
 - 🔭 Atualmente trabalho com freelancers
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas - IFPB
+
+## Languages:
 <div style="display: inline_block">
   <img align="center" alt="Renatocdg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renatocdg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renatocdg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renatocdg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
 <div> 
 
 ## 🌐 Socials:
@@ -17,7 +20,7 @@
   
 </div>
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=renatocdg&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=renatocdg&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renatocdg&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
